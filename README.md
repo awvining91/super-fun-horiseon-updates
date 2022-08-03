@@ -26,9 +26,8 @@ that they wanted changed. Currently on standby awaiting Horisean.
 
 
 ##Screenshot
-```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+
+![Alt text](assets/images/screenshot.png)
 
 
 
