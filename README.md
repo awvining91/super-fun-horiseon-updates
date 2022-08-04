@@ -27,13 +27,7 @@ that they wanted changed. Currently on standby awaiting Horisean.
 
 ##Screenshot
 
-![Alt text](assets/images/screenshot.png)
 
-![image](https://user-images.githubusercontent.com/51838530/182742271-4152c22f-2ae9-4f8a-afe2-0a2bcbd6db66.png)
-
-![image](https://awvining91.github.io/super-fun-horiseon-updates/)
-
-![image](https://awvining91.github.io/super-fun-horiseon-updates/)
 
 ![image](https://user-images.githubusercontent.com/51838530/182743042-6231e16b-2f05-4c72-a7b0-ddb4840200d5.png)
 
