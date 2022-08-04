@@ -33,6 +33,8 @@ that they wanted changed. Currently on standby awaiting Horisean.
 
 ![image](https://awvining91.github.io/super-fun-horiseon-updates/)
 
+![image](https://awvining91.github.io/super-fun-horiseon-updates/)
+
 
 ## Deployment Link
 https://awvining91.github.io/super-fun-horiseon-updates/
