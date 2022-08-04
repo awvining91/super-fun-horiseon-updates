@@ -29,6 +29,9 @@ that they wanted changed. Currently on standby awaiting Horisean.
 
 ![Alt text](assets/images/screenshot.png)
 
+![image](https://user-images.githubusercontent.com/51838530/182742271-4152c22f-2ae9-4f8a-afe2-0a2bcbd6db66.png)
+
+
 ## Deployment Link
 https://awvining91.github.io/super-fun-horiseon-updates/
 
